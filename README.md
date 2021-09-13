@@ -1,4 +1,5 @@
-### Hi there I'm Shubham<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there I'm Shubham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### A passionate frontend developer from India
 
 - 🔭 I’m currently working on **projects built on MERN stack**
 - 🌱 I’m currently learning Mern stack
