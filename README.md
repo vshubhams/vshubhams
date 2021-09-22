@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Mern stack
 - 💬 Ask me about JavaScript React.js HTML CSS 
 - 👨‍💻 Know more about me at [shubhamv.ml](shubhamv.ml)
-- ⚡ Fun fact: **"Be Strong"** I whispered to the wifi signal.
+- ⚡ Fun fact: **"Be Strong"** I whispered to the wi-fi signal.
 ### Skilled in 
 [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)  &nbsp; [![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#) &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc)](#) &nbsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857)](#) &nbsp; [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-409142?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=409142)](#)
 
