@@ -11,7 +11,7 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vshubhams&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
-
+ <a href="https://github.com/vshubhams/github-readme-stats"><img alt="Shubham verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vshubhams&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamv_" height="30" width="40" /></a>
