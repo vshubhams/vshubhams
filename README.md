@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **projects built on MERN stack**
 - 🌱 I’m currently learning Mern stack
 - 💬 Ask me about JavaScript React.js HTML CSS 
-- 👨‍💻 Know more about me at [shubhamv.in](https://shubhamv.in)
+- 👨‍💻 Know more about me at [shubhamv.in](https://www.shubhamv.in)
 - ⚡ Fun fact: **"Be Strong"** I whispered to the wi-fi signal.
 -  
 ### Skilled in 
